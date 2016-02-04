@@ -12,10 +12,8 @@ title : Neil Richardson
 tagline: Site Tagline
 author :
   name : Neil Richardson
-  email : blah@email.test
   github : njrich28
   twitter : njrich28
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
