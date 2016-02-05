@@ -2,7 +2,8 @@
 layout: page
 title: A brave new Hello World!
 tagline: Supporting tagline
-
+theme:
+  name: twitter
 ---
 {% include JB/setup %}
 
